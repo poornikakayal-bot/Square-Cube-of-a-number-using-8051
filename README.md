@@ -24,6 +24,7 @@ MUL AB
 INC R0 
 MOV @R0,A
 END
+
 ## OUTPUT
 Screenshot 2026-03-16 085653.pn
 
